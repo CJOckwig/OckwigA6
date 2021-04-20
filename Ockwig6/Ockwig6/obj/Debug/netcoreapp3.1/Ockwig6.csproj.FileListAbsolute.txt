@@ -1,0 +1,13 @@
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\bin\Debug\netcoreapp3.1\Ockwig6.exe
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\bin\Debug\netcoreapp3.1\Ockwig6.deps.json
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\bin\Debug\netcoreapp3.1\Ockwig6.runtimeconfig.json
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\bin\Debug\netcoreapp3.1\Ockwig6.runtimeconfig.dev.json
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\bin\Debug\netcoreapp3.1\Ockwig6.dll
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\bin\Debug\netcoreapp3.1\Ockwig6.pdb
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.csprojAssemblyReference.cache
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.AssemblyInfoInputs.cache
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.AssemblyInfo.cs
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.dll
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.pdb
+C:\Users\Caleb\source\repos\Ockwig6\Ockwig6\obj\Debug\netcoreapp3.1\Ockwig6.genruntimeconfig.cache
