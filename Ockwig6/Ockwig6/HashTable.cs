@@ -66,10 +66,11 @@ namespace HashTableNS
                     
                     do
                     {
-                        hash_location = Hash(input) + count;
+                        hash_location = (Hash(input) + count*5)%101;
                         if(Table[hash_location].Hashed != -1)
                         {
-                            count++;
+                            count+=1;
+
                         }
                         else
                         {
@@ -78,8 +79,9 @@ namespace HashTableNS
 
                     } while (!b);
                   
-                        Table[hash_location].Keyword = input;
-                        Table[hash_location].Hashed = hash_location;
+                    Table[hash_location].Keyword = input;
+                    Table[hash_location].Hashed = Hash(input);
+                    Table[hash_location].Probes = count;
 
                 }
                 return;

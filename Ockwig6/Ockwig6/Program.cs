@@ -6,11 +6,8 @@ using HashTableNS;
         static void Main(string[] args)
         {
         HashTable HT = new HashTable();
-        
-       
-
-            
-            View.ViewHT(HT);
+         
+        View.ViewHT(HT);
 
 
             
